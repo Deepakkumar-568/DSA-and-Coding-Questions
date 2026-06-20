@@ -15,5 +15,6 @@ Strengthen programming fundamentals
 Practice Data Structures and Algorithms
 Track learning progress
 Build coding consistency
+Solve programming question on regular basic
 
 Thank you for visiting this repository.
