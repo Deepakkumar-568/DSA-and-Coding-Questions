@@ -1,39 +1,42 @@
 # DSA-and-Coding-Questions
-<<<<<<< HEAD
-=======
-# DSA and Coding Questions
 
->>>>>>> 3f32230 (Updated README)
-Welcome to my DSA and Coding Questions repository.
+## About
 
-This repository contains solutions to various programming and Data Structures & Algorithms (DSA) questions that I solve as part of my learning journey. It serves as a collection of practice problems, coding exercises, and solutions written in C++.
+Welcome to my **DSA and Coding Questions** repository.
 
-The main goal of this repository is to improve my problem-solving abilities, strengthen my understanding of programming concepts, and build consistency through regular practice. As I continue learning, I will keep adding new questions and solutions to track my progress over time.
+This repository contains my solutions to various programming problems and Data Structures & Algorithms (DSA) questions that I solve as part of my learning journey. It serves as a collection of coding exercises, practice problems, and algorithm implementations.
 
-This repository reflects my journey of learning, experimenting, and improving my coding skills one problem at a time.
+## Language Used
 
-<<<<<<< HEAD
-Language Used
-C++
-Goals
-Improve problem-solving skills
-Strengthen programming fundamentals
-Practice Data Structures and Algorithms
-Track learning progress
-Build coding consistency
-
-=======
-### Language Used
-
+* C
 * C++
 
-### Goals
+## Goals
 
 * Improve problem-solving skills
 * Strengthen programming fundamentals
 * Practice Data Structures and Algorithms
-* Track learning progress
-* Build coding consistency
->>>>>>> 3f32230 (Updated README)
+* Maintain consistency through daily coding
+* Track my learning progress
 
-Thank you for visiting this repository.
+## Repository Structure
+
+* Arrays
+* Strings
+* Searching
+* Sorting
+* Recursion
+* Linked List
+* Stack
+* Queue
+* Trees
+* Graphs
+* Dynamic Programming
+* Miscellaneous Coding Problems
+
+## Purpose
+
+This repository documents my progress as I continue learning and improving my programming skills by solving coding challenges regularly.
+
+Thank you for visiting this repository!
+
