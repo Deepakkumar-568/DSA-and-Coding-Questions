@@ -2,25 +2,21 @@
 using namespace std;
 void print(int n){
     for(int i =0; i<n; i++){
-        for(int j =0; j<n; j++){
-            cout<<"* ";
+        for(int j =1; j<n-i+1; j++){
+            cout<<i;
         }
         cout<<endl;
     }
-    
-
-    
 }
 int main(){
     int n;
     cin>>n;
     print(n);
-    return 0;
 }
-/*Output 5
-* * * * * 
-* * * * * 
-* * * * * 
-* * * * * 
-* * * * * 
-*/
+
+/*Output- 4
+00000
+1111
+222
+33
+4*/
