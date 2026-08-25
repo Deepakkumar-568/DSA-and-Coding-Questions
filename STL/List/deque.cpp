@@ -5,10 +5,14 @@ int main(){
     deque <int> d = {1,2,3,4,54}; //Same as list operations
     d.pop_back();
     d.pop_front();
-    for(int print : d){
-        cout<<print<<" ";
+   /* for(int print : d){
+       cout<<print<<" ";
     }
     cout<<d[2]<<" "<<endl;
+  */
+    for(int print = 0; print<d.size(); print ++){
+        cout<<print<<" ";
+    }
 
 
 }
