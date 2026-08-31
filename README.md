@@ -31,8 +31,8 @@ This repository contains my solutions to various programming problems and Data S
 * Queue
 * Trees
 * Graphs
-* Dynamic Programming
-* Miscellaneous Coding Problems
+
+
 
 ## Purpose
 
